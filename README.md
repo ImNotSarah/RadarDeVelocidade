@@ -1,6 +1,6 @@
 # Radar de velocidade 🚗🚦  
 
-> Simulação de radar de velocidade – Big Data 
+> Simulador de radar de velocidade – Big Data 
 
 ## 📖 Sobre o Projeto  
 
